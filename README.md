@@ -1,5 +1,9 @@
 # solana-airdropping
 
+## Objective
+
+    Add 1.0024  SOL to your own wallet and display balance
+
 ## Run
 
 ```
